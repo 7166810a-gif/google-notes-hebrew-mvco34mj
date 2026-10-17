@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">הערות Google</string>
+    <string name="search_hint">חיפוש בהערות שלך...</string>
+    <string name="empty_notes_title">עדיין אין הערות</string>
+    <string name="empty_notes_subtitle">הערות שתוסיף יופיעו כאן. תוכל להוסיף טקסט, תמונות והקלטות קוליות.</string>
+    <string name="title_hint">כותרת</string>
+    <string name="content_hint">הקלד הערה...</string>
+    <string name="add_note">הערה חדשה</string>
+    <string name="add_image">הוסף תמונה</string>
+    <string name="record_audio">הקלטה קולית</string>
+    <string name="pinned_section">מוצמדות</string>
+    <string name="others_section">אחרות</string>
+    <string name="save">שמור</string>
+    <string name="delete">מחק</string>
+    <string name="delete_confirm">האם למחוק הערה זו?</string>
+    <string name="yes">כן, מחק</string>
+    <string name="cancel">ביטול</string>
+    <string name="recording">מקליט קול...</string>
+    <string name="stop_recording">סיום הקלטה</string>
+    <string name="play">השמע</string>
+    <string name="pause">השהה</string>
+    <string name="recording_saved">ההקלטה נשמרה</string>
+    <string name="permission_audio_needed">נדרשת הרשאת מיקרופון להקלטת קול</string>
+    <string name="image_load_failed">לא ניתן לטעון את התמונה</string>
+    <string name="note_deleted">ההערה נמחקה</string>
+</resources>
